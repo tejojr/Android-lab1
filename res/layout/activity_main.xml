@@ -1,0 +1,29 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/splash"
+    android:padding="10dp">
+	<TextView 
+	    android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="FOREVER"
+    	android:textColor="#ffffff"
+    	android:textSize="35sp"
+    	android:layout_gravity="center_horizontal"/>
+	<ImageView
+	    android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:src="@drawable/ic_launcher"
+    	android:layout_gravity="center_horizontal"/>
+	<EditText 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:hint="Nama"/>
+	
+	
+     
+</LinearLayout>
+   
+   
